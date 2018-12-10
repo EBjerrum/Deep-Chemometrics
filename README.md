@@ -23,4 +23,4 @@ Please cite: https://arxiv.org/abs/1710.01927
 
 ## Support
 
-Commercial support available through wildcard pharmaceutical consulting: WWW.wildcardconsulting.dk
+Commercial support discontinued.  Wildcard pharmaceutical consulting: https://www.wildcardconsulting.dk/useful-information/wildcard-pharmaceutical-consulting-will-be-closed/
